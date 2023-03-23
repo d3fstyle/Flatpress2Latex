@@ -3,7 +3,7 @@
 This script converts posts in a flatpress blog into a .tex document.
 
 - Can filter from date to date.
-- Images within posts can be included
+- Images within posts could be included
 
 -- Features missing --
 
